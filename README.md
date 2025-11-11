@@ -1,7 +1,7 @@
 ## Hi, i'm Vladislav 👋
 
-👨‍💻 Backend-engineer on Python</br>
-👨‍🎓 I'm studying at the university to be a web-developer</br>
+👨‍💻 Backend-engineer on <b>Python</b></br>
+👨‍🎓 I'm studying at the university to be a <b>web-developer</b></br>
 
 
 ## 🌐 Socials:
